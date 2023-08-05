@@ -168,7 +168,8 @@ p {
   z-index: 1; /* Ajusta este valor para asegurarte de que la imagen esté por encima de las demás */
   }
 
-  .gal {overflow:hidden;}
+  .gal {overflow:hidden;
+  }
  
   .mensaje404{
     margin-top: 100px;
