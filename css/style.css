@@ -158,8 +158,7 @@ p {
   transition: transform 0.5s ease; /* Duración: 0.5 segundos */
   }
 
-  .gal img:hover,
-  .gal img:active {
+  .gal img:hover {
     -webkit-transform: scale(1.3);
     transform: scale(1.3);
     opacity: 0.9;
@@ -168,9 +167,7 @@ p {
   z-index: 1; /* Ajusta este valor para asegurarte de que la imagen esté por encima de las demás */
   }
 
-  .gal {overflow:hidden;
-  }
- 
+  
   .mensaje404{
     margin-top: 100px;
   }
